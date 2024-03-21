@@ -6,5 +6,7 @@ public class Main{
         System.out.println(new Date());
         System.out.println("Hello, Jenkins");
         System.out.println("After Change");
+        Student student = new Student();
+        student.sayHello();
     }
 }
