@@ -1,7 +1,7 @@
 public class Student {
 
     public Student() {
-        System.out.println("Creating stident");
+        System.out.println("Creating student");
     }
 
     public void sayHello() {
